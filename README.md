@@ -20,4 +20,4 @@ Firebase integration for secure user authentication and data storage
 Flutter
 Firebase (Authentication, Cloud Firestore)
 
-![Functionality Video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXEzaml6enltOGoyMmtwMjA4N2xqN3Riamlra3QzMTV0d3l2eDlocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTRB9YptgC5aD9cDBW/giphy.gif)
+![Functionality Video]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXEzaml6enltOGoyMmtwMjA4N2xqN3Riamlra3QzMTV0d3l2eDlocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTRB9YptgC5aD9cDBW/giphy.gif](https://media.giphy.com/media/rv9Zx4ICraMn2UyU8y/giphy.gif)https://media.giphy.com/media/rv9Zx4ICraMn2UyU8y/giphy.gif)
