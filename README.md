@@ -1,23 +1,23 @@
 # flash_app_chat_2
 
-A new Flutter module project.
 
 ## Getting Started
 
-📝 Flutter ToDo List App with Provider State Management
+🚀 Flutter Chat App with Firebase Integration
 
-A simple ToDo List app built using Flutter framework and state management with Provider. This app allows users to create, edit, and delete tasks, helping them stay organized and productive.
+A feature-rich chat application built with Flutter and Firebase. This app allows users to register, authenticate, and engage in real-time chat conversations. Firebase Cloud Firestore is used to store chat data, and streams are implemented for seamless updates.
 
-🚀 Features:
+🌐 Key Features:
 
-Add, edit, and delete tasks
-Intuitive user interface
-State management with Provider for efficient data handling
-Clean and modular Flutter codebase
+User registration and authentication
+Real-time chat with Firebase Cloud Firestore
+Stream-based updates for instant message delivery
+Clean and intuitive user interface
+Firebase integration for secure user authentication and data storage
 
 👨‍💻 Tech Stack:
 
 Flutter
-Provider State Management
+Firebase (Authentication, Cloud Firestore)
 
-![Functionality Video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXA3cHdlMTVvazhkbGY3MjJwa3duc3N2NHE2ZGt4c3ZiMjM0OTR0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XpmrBlEnogOWDbx3qW/giphy.gif)
+![Functionality Video](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXEzaml6enltOGoyMmtwMjA4N2xqN3Riamlra3QzMTV0d3l2eDlocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DTRB9YptgC5aD9cDBW/giphy.gif)
