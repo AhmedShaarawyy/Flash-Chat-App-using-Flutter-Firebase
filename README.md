@@ -14,6 +14,7 @@ Add, edit, and delete tasks
 Intuitive user interface
 State management with Provider for efficient data handling
 Clean and modular Flutter codebase
+
 👨‍💻 Tech Stack:
 
 Flutter
